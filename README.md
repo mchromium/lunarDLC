@@ -1,7 +1,7 @@
 # lunarDLC
 
 ## What is this?
-a indev roblox bedwars script thats supposed to be free on release!
+a indev roblox bedwars script thats supposed to be free and opensource
 
 ### Maintenance
 maintaned by @NotLawiiet and @mchromium
